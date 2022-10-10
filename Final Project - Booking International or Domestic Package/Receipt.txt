@@ -1,0 +1,17 @@
+Your email    :arif@mmu.my
+Your Full Name:Arif
+Your Phone No.: 0123003462
+
+Trip package to Japan Tours Package
+Adult : 1
+Child : 0
+Senior: 1
+
+Fare               : RM6750.00
+Discount           : RM0.00
+Tax                : RM405.00
+Your Total Price is: RM7155.00
+
+Thank You. 
+For further inquiries, you can email us at travelsense@mmu.edu.my
+Thank you choosing Travel Sense
